@@ -1,7 +1,5 @@
 # .bashrc : hero24 : 2016-07-11
 # It is better to keep your mouth shut and appear stupid than to open it and remove all doubt ~ Mark Twain
-#GOROOT=$HOME/Downloads/go
-#PATH=$PATH:$HOME:$GOROOT/bin
 umask 033
 umask u=rwx
 CDPATH=.:$HOME
@@ -39,4 +37,4 @@ PS1='\[$(color)\] \t Mess with the best, Die like the rest \n\w $ \[$(input_colo
 PS2='> '
 # list all
 alias la='ls -a'
-# list files with extension $1
+
