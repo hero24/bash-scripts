@@ -1,6 +1,8 @@
 #!/bin/bash
 # wifi-t100taf.sh : make wifi work on asus transformer t100taf
 # author : hero24
+# "U mom oku samo hlad u mom srcu samo stud,
+# Inje i prašina" ~ Tisina, Bajaga i Instruktori
 # note! this requires debian or debian based system
 # note! requires kernel >= 4
 # run as root
