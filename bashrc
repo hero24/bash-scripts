@@ -38,3 +38,10 @@ PS2='> '
 # list all
 alias la='ls -a'
 
+fi
+if [ -d ~/bash-scripts ]; then
+        for i in $(ls ~/bash-scripts); do
+
+                source  ~/hero/bash-scripts/$i
+        done
+fi
